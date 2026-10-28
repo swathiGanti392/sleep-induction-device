@@ -1,0 +1,26 @@
+{
+  "name": "sleep-induction-device",
+  "version": "1.0.0",
+  "description": "A conceptual framework for a wearable device that induces sleep through neurochemical modulation, neurostimulation, and autonomic nervous system regulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet - this is a concept project\" && exit 0"
+  },
+  "keywords": [
+    "sleep",
+    "neuroscience",
+    "bioengineering",
+    "neurostimulation",
+    "medical-device",
+    "sleep-disorders",
+    "insomnia",
+    "circadian-rhythm",
+    "autonomic-nervous-system"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swathiGanti392/sleep-induction-device"
+  }
+}

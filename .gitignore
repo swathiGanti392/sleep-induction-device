@@ -1,0 +1,45 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Data (never commit user health data)
+data/
+*.csv
+data*.json
+user*.json
+patient*.json
+medical*.json
+*.hdf5
+*.npy
+*.mat
+
+# Logs
+logs/
+*.log
+
+# Credentials
+credentials.json
+.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.swp
+.cache/
+
+# Medical data (never commit)
+patient_data/
+medical_records/
+eeg_data/
